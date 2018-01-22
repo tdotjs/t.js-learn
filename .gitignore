@@ -1,0 +1,11 @@
+*.tgz
+*.tar
+*.gz
+*.zip
+.DS_Store
+.vscode
+node_modules
+*.log
+build
+dist
+
