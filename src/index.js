@@ -3,7 +3,6 @@ const fs = require('fs');
 const glob = require('glob');
 const marked = require('marked');
 const mkdirp = require('mkdirp');
-// Using async version of marked
 marked.setOptions({
   renderer: new marked.Renderer(),
   gfm: true,
@@ -26,7 +25,7 @@ glob('src/pages/**/*', {}, (er, files) => {
         } else {
           marked(data.toString(), (err, content) => {
             if (err !== null) return;
-            writeTo(writePath.replace('.md','.html'), content);
+            writeTo(writePath.replace('.md','.html'), wrapHTML(content));
           });
         }
       });
@@ -43,6 +42,6 @@ async function writeTo(to, content) {
   });
   return this;
 }
-async function wrapHTML(content) {
-    return ``
+function wrapHTML(content) {
+    return fs.readFileSync(path.resolve(__dirname,'layout.html')).toString().replace(`{{content}}`,content);
 }
