@@ -14,6 +14,25 @@ marked.setOptions({
   smartLists: true,
   smartypants: true,
 });
+glob('src/pages/**/*', {}, (er, files) => {
+  files.forEach(file => {
+    const writePath = path.resolve(path.join('docs', path.relative('src/pages', file)));
+    const writeFolder = path.dirname(writePath);
+    mkdirp(writeFolder, err => {
+      fs.readFile(file, (err, data) => {
+        if (err !== null) return;
+        if (file.indexOf('.md') == -1) {
+          writeTo(writePath, data);
+        } else {
+          marked(data.toString(), (err, content) => {
+            if (err !== null) return;
+            writeTo(writePath.replace('.md','.html'), content);
+          });
+        }
+      });
+    });
+  });
+});
 async function writeTo(to, content) {
   fs.writeFile(to, content, err => {
     if (err !== null) {
@@ -24,28 +43,6 @@ async function writeTo(to, content) {
   });
   return this;
 }
-glob('src/pages/**/*', {}, function(er, files) {
-  files.forEach(file => {
-    const writePath = path.resolve(path.join('docs', path.relative('src/pages', file)));
-    const writeFolder = path.dirname(writePath);
-    mkdirp(writeFolder, function(err) {
-      fs.readFile(file, (err, data) => {
-        if (err !== null) return;
-        if (file.indexOf('.md') == -1) {
-          writeTo(writePath, data);
-        } else {
-          marked(data.toString(), function(err, content) {
-            if (err !== null) return;
-            fs.writeFile(writePath, content, err => {
-              if (err !== null) {
-                console.log(`Generate ${file} failed!`);
-              } else {
-                console.log(`Generate ${file} success!`);
-              }
-            });
-          });
-        }
-      });
-    });
-  });
-});
+async function wrapHTML(content) {
+    return ``
+}
