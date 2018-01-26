@@ -1,0 +1,13 @@
+{
+  "name": "learn.tee",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:teelang/learn.tee.github.io.git",
+  "author": "Tricky <tricky@gvr.vn>",
+  "license": "MIT",
+  "devDependencies": {
+    "glob": "^7.1.2",
+    "marked": "^0.3.12",
+    "mkdirp": "^0.5.1"
+  }
+}
