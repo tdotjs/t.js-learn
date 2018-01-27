@@ -1,23 +1,47 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>learn.teelang.io | Learning Repository to share everyone</title>
-    <meta property="og:title" content="learn.teelang.io" />
-    <meta property="og:locale" content="en_US" />
-    <meta name="description" content="Learning Repository to share everyone" />
-    <meta property="og:description" content="Learning Repository to share everyone" />
-    <link rel="canonical" href="//learn.teelang.io/" />
-    <meta property="og:url" content="//learn.teelang.io/" />
-    <meta property="og:site_name" content="learn.tee.github.io" />
-    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/github-markdown-css/2.10.0/github-markdown.min.css" />
-  </head>
-  <body> 
-    <div class="themeChooser"></div>
-    <div id="content">
-        {{content}}
-    </div>    
-    <script src="/assets/themes.js"></script>
-  </body>  
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+  <title>learn.teelang.io | Learning Repository to share everyone</title>
+  <meta property="og:title" content="learn.teelang.io" />
+  <meta property="og:locale" content="en_US" />
+  <meta name="description" content="Learning Repository to share everyone" />
+  <meta property="og:description" content="Learning Repository to share everyone" />
+  <link rel="canonical" href="//learn.teelang.io/" />
+  <meta property="og:url" content="//learn.teelang.io/" />
+  <meta property="og:site_name" content="learn.tee.github.io" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.6.2/css/bulma.min.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulmaswatch/0.5.2/darkly/bulmaswatch.min.css" />
+  <link rel="stylesheet" href="/assets/md-dashing-theme.css" />
+</head>
+<body>
+  <nav class="navbar is-transparent">
+    <div class="container">
+      <div class="navbar-brand">
+        <a class="navbar-item" href="/">
+          learn.teelang.io
+        </a>
+        <div class="navbar-burger burger" data-target="navbarExampleTransparentExample">
+          <span></span>
+          <span></span>
+          <span></span>
+        </div>
+      </div>      
+    </div>
+  </nav>
+  <main>
+    <section class="section">
+      <div class="container">
+        <div class="markdown">
+          {{content}}
+        </div>
+      </div>
+      <script src="/assets/themes.js"></script>
+    </section>
+  </main>
+</body>
+
 </html>

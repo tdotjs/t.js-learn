@@ -1,0 +1,44 @@
+.markdown a {
+	color: #61AFEF;
+}
+
+.markdown h1,
+.markdown h2,
+.markdown h3,
+.markdown h4,
+.markdown h5,
+.markdown h6 {
+	font-weight: 600;
+	color: #E06C75;
+}
+
+.markdown,
+.markdown pre code {
+	color: #ABB2BF;
+}
+
+.markdown code {
+	color: #90C378;
+}
+
+.markdown pre:not(.hljs),
+.markdown code>div {
+	background-color: #2C323C;
+}
+
+.markdown table>thead>tr>th {
+	border-color: #2C323C;
+}
+
+.markdown h1,
+.markdown hr,
+.markdown table>tbody>tr+tr>td {
+	border-color: #2C323C;
+}
+
+.markdown blockquote {
+	color: #5C6370;
+	font-style: italic;
+	background: transparent;
+	border-color: #2C323C;
+}

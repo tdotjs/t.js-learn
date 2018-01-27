@@ -1,18 +1,23 @@
 const path = require('path');
 const fs = require('fs');
 const glob = require('glob');
-const marked = require('marked');
+const showdown = require('showdown');
 const mkdirp = require('mkdirp');
-marked.setOptions({
-  renderer: new marked.Renderer(),
-  gfm: true,
-  tables: true,
-  breaks: true,
-  pedantic: true,
-  sanitize: true,
-  smartLists: true,
-  smartypants: true,
+const highlight = require('highlight.js');
+const http = require('http');
+
+converter = new showdown.Converter({
+  headerLevelStart: 2,
+  simplifiedAutoLink: true,
+  excludeTrailingPunctuationFromURLs: true,
+  literalMidWordUnderscores: true,
+  ghCodeBlocks: true,
+  ghMentions: true,
+  ghMentionsLink: true,
+  disableForced4SpacesIndentedSublists: true,
+  encodeEmails: true,
 });
+
 glob('src/pages/**/*', {}, (er, files) => {
   files.forEach(file => {
     const writePath = path.resolve(path.join('docs', path.relative('src/pages', file)));
@@ -23,15 +28,27 @@ glob('src/pages/**/*', {}, (er, files) => {
         if (file.indexOf('.md') == -1) {
           writeTo(writePath, data);
         } else {
-          marked(data.toString(), (err, content) => {
-            if (err !== null) return;
-            writeTo(writePath.replace('.md','.html'), wrapHTML(content));
-          });
+          let content = converter.makeHtml(data.toString());
+          writeTo(writePath.replace('.md', '.html'), wrapHTML(content));
         }
       });
     });
   });
+  const server = http.createServer((req, res) => {
+    let reqUrl = req.url;
+    if (reqUrl === '/') reqUrl = 'index.html';
+    const reqFile = path.resolve(path.join('docs', reqUrl));
+    if (fs.existsSync(reqFile)) {
+      res.writeHead(200);
+      res.write(fs.readFileSync(reqFile));
+    } else {
+      res.writeHead(404);
+    }
+    res.end();
+  });
+  server.listen(3000);
 });
+
 async function writeTo(to, content) {
   fs.writeFile(to, content, err => {
     if (err !== null) {
@@ -42,6 +59,10 @@ async function writeTo(to, content) {
   });
   return this;
 }
+
 function wrapHTML(content) {
-    return fs.readFileSync(path.resolve(__dirname,'layout.html')).toString().replace(`{{content}}`,content);
+  return fs
+    .readFileSync(path.resolve(__dirname, 'layout.html'))
+    .toString()
+    .replace(`{{content}}`, content);
 }
