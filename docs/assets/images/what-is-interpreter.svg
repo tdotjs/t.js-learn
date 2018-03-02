@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" height="264.89mm" width="275.73mm" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 977.00008 938.59748">
+<style>
+svg{font-family:sans-serif;}
+</style>
+<defs>
+<linearGradient id="a">
+<stop style="stop-color:#c9cacc" offset="0"/>
+<stop style="stop-color:#c9cacc;stop-opacity:0" offset="1"/>
+</linearGradient>
+<linearGradient id="b">
+<stop style="stop-color:#c1c2c4" offset="0"/>
+<stop style="stop-color:#d8dadb" offset=".54266"/>
+<stop style="stop-color:#fafafa" offset=".84311"/>
+<stop style="stop-color:#88888c;stop-opacity:.74132" offset="1"/>
+</linearGradient>
+<linearGradient id="h" y2="383.7" gradientUnits="userSpaceOnUse" x2="838.7" y1="303.89" x1="-105.17">
+<stop style="stop-color:#e9e9e9" offset="0"/>
+<stop style="stop-color:#e8e8e8" offset=".38540"/>
+<stop style="stop-color:#aeaeae" offset="1"/>
+</linearGradient>
+<linearGradient id="f" y2="357.05" xlink:href="#b" gradientUnits="userSpaceOnUse" x2="176.89" y1="316.21" x1="176.89"/>
+<linearGradient id="d" y2="304.2" xlink:href="#a" gradientUnits="userSpaceOnUse" x2="317.65" y1="178.15" x1="6.7227"/>
+<linearGradient id="e" y2="357.05" xlink:href="#b" gradientUnits="userSpaceOnUse" x2="176.89" gradientTransform="translate(-10e-6,-5e-6)" y1="316.21" x1="176.89"/>
+<linearGradient id="g" y2="347.85" gradientUnits="userSpaceOnUse" x2="1164.6" gradientTransform="translate(-1e-5,-5e-6)" y1="404.92" x1="351.1">
+<stop style="stop-color:#e9e9e9" offset="0"/>
+<stop style="stop-color:#e8e8e8" offset=".65186"/>
+<stop style="stop-color:#aeaeae" offset="1"/>
+</linearGradient>
+<linearGradient id="c" y2="304.2" xlink:href="#a" gradientUnits="userSpaceOnUse" x2="317.65" gradientTransform="translate(-10e-6,-5e-6)" y1="178.15" x1="6.7227"/>
+</defs>
+<text style="letter-spacing:0px;font-size:27.5px;word-spacing:0px;line-height:125%;fill:#000000" xml:space="preserve" y="136.36194" x="65.337753"><tspan x="65.337753" y="136.36194"/></text>
+<rect style="stroke-linejoin:round;color-rendering:auto;color:#000000;shape-rendering:auto;solid-color:#000000;stroke:#78867a;stroke-width:4;fill:none;mix-blend-mode:normal;image-rendering:auto;isolation:auto" height="237" width="363" y="419.6" x="2"/>
+<path style="fill:url(#f);fill-rule:evenodd" d="m130.11 355.05c24.476 0 25.408-38.775 25.408-38.775h55.07s.97227 38.05 24.926 38.846z"/>
+<path style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#030302" d="m44.829 90.529h276.48c5.3045 0 9.5748 5.3737 9.5748 12.048v201.82c0 12-.46197 12.048-9.5748 12.048h-276.48c-9.9592 0-9.5748-.0489-9.5748-12.048v-201.82c0-6.675 4.2703-12.048 9.5748-12.048z"/>
+<path style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:url(#h)" d="m34.856 276.47v28.252c0 12.14-.38518 12.188 9.601 12.188h277.23c9.0463 0 9.588-.0874 9.5979-11.868v-28.25c-38.978 0-258.31-.32215-296.43-.32215z"/>
+<rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#646464" rx="0" ry="0" height="159.94" width="266.94" y="103.78" x="49.59"/>
+<rect style="opacity:0.942;color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:url(#d)" rx="1.9593" ry="1.9593" height="2.7612" width="105.53" y="354.84" x="130.19"/>
+<rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#e6e6e6" height="5.5639" width="265.68" y="103.44" x="50.035"/>
+<circle r="1.6464" style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#f61d1d" cx="55.623" cy="105.93"/>
+<circle cx="62.208" cy="105.93" r="1.6464" style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#fff600"/>
+<circle r="1.6464" style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#2aff00" cx="68.794" cy="105.93"/>
+<rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#b2faff" height="5.5138" width="109.71" y="120.64" x="59.073"/>
+<rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#b0ffa9" height="5.5138" width="67.279" y="140.64" x="59.073"/>
+<rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#fff171" height="5.5138" width="109.71" y="160.64" x="59.073"/>
+<rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#fa9aa1" height="5.5138" width="131.53" y="180.64" x="59.073"/>
+<rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#dffb88" height="5.5138" width="40.61" y="200.64" x="59.073"/>
+<rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#c4c9ff" height="5.5138" width="96.372" y="220.64" x="59.073"/>
+<rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#ffe093" height="5.5138" width="119.4" y="240.64" x="59.073"/>
+<rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#ffe093" height="217" width="151" y="429.6" x="16.216"/>
+<rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#a9c7ff" height="39" width="167" y="429.6" x="183.78"/>
+<rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#ffa193" height="39" width="167" y="488.93" x="183.78"/>
+<rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#fba1c8" height="39" width="167" y="548.26" x="183.78"/>
+<rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#7affb0" height="39" width="167" y="607.6" x="183.78"/>
+<text style="letter-spacing:0px;font-size:20px;word-spacing:0px;line-height:125%;fill:#000000" xml:space="preserve" y="545.36792" x="77.023987"><tspan x="77.023987" y="545.36792">OS</tspan></text>
+<text style="letter-spacing:0px;font-size:20px;word-spacing:0px;line-height:125%;fill:#000000" xml:space="preserve" y="456.54376" x="208.35297"><tspan x="208.35297" y="456.54376">Code Editor</tspan></text>
+<text style="letter-spacing:0px;font-size:20px;word-spacing:0px;line-height:125%;fill:#000000" xml:space="preserve" y="515.87708" x="203.66058"><tspan x="203.66058" y="515.87708">Source Code</tspan></text>
+<text style="letter-spacing:0px;font-size:20px;word-spacing:0px;line-height:125%;fill:#000000" xml:space="preserve" y="573.35004" x="222.00531"><tspan x="222.00531" y="573.35004">Compiler</tspan></text>
+<text style="letter-spacing:0px;font-size:20px;word-spacing:0px;line-height:125%;fill:#000000" xml:space="preserve" y="632.68341" x="215.35004"><tspan x="215.35004" y="632.68341">Byte Code</tspan></text>
+<rect style="stroke-linejoin:round;color-rendering:auto;color:#000000;shape-rendering:auto;solid-color:#000000;stroke:#78867a;stroke-width:4;fill:none;mix-blend-mode:normal;image-rendering:auto;isolation:auto" height="237" width="363" y="699.6" x="2"/>
+<rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#ffe093" height="217" width="151" y="709.6" x="16.216"/>
+<rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#b0cbff" height="107.58" width="167" y="709.6" x="183.78"/>
+<text style="letter-spacing:0px;font-size:20px;word-spacing:0px;line-height:125%;fill:#000000" y="825.36798" x="77.023987" xml:space="preserve"><tspan y="825.36798" x="77.023987">OS</tspan></text>
+<text style="letter-spacing:0px;font-size:20px;word-spacing:0px;line-height:125%;fill:#000000" y="770.83508" x="215.35004" xml:space="preserve"><tspan y="770.83508" x="215.35004">Byte Code</tspan></text>
+<rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#efefef" height="107.4" width="167" y="819.19" x="183.78"/>
+<text style="letter-spacing:0px;font-size:20px;word-spacing:0px;line-height:125%;fill:#000000" xml:space="preserve" y="878.15436" x="223.21429"><tspan x="223.21429" y="878.15436">Interpreter</tspan></text>
+<rect style="stroke-linejoin:round;color-rendering:auto;color:#000000;shape-rendering:auto;solid-color:#000000;stroke:#78867a;stroke-width:4;fill:none;mix-blend-mode:normal;image-rendering:auto;isolation:auto" height="237" width="363" y="419.6" x="612"/>
+<rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#ffe093" height="217" width="151" y="429.6" x="626.22"/>
+<rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#a9c7ff" height="39" width="167" y="429.6" x="793.78"/>
+<rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#ffa193" height="39" width="167" y="488.93" x="793.78"/>
+<rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#fba1c8" height="39" width="167" y="548.26" x="793.78"/>
+<rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#7affb0" height="39" width="167" y="607.6" x="793.78"/>
+<text style="letter-spacing:0px;font-size:20px;word-spacing:0px;line-height:125%;fill:#000000" y="545.36792" x="687.02405" xml:space="preserve"><tspan y="545.36792" x="687.02405">OS</tspan></text>
+<text style="letter-spacing:0px;font-size:20px;word-spacing:0px;line-height:125%;fill:#000000" y="456.54376" x="818.35303" xml:space="preserve"><tspan y="456.54376" x="818.35303">Code Editor</tspan></text>
+<text style="letter-spacing:0px;font-size:20px;word-spacing:0px;line-height:125%;fill:#000000" y="515.87708" x="813.66064" xml:space="preserve"><tspan y="515.87708" x="813.66064">Source Code</tspan></text>
+<text style="letter-spacing:0px;font-size:20px;word-spacing:0px;line-height:125%;fill:#000000" y="573.35004" x="832.00537" xml:space="preserve"><tspan y="573.35004" x="832.00537">Compiler</tspan></text>
+<text style="letter-spacing:0px;font-size:20px;word-spacing:0px;line-height:125%;fill:#000000" y="634.54376" x="814.02979" xml:space="preserve"><tspan y="634.54376" x="814.02979">Machine Code</tspan></text>
+<rect style="stroke-linejoin:round;color-rendering:auto;color:#000000;shape-rendering:auto;solid-color:#000000;stroke:#78867a;stroke-width:4;fill:none;mix-blend-mode:normal;image-rendering:auto;isolation:auto" height="237" width="363" y="699.6" x="612"/>
+<text style="letter-spacing:0px;font-size:20px;word-spacing:0px;line-height:125%;fill:#000000" xml:space="preserve" y="684.03894" x="163.87598"><tspan x="163.87598" y="684.03894">Run</tspan></text>
+<rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#ffe093" height="217" width="151" y="709.6" x="626.22"/>
+<text style="letter-spacing:0px;font-size:20px;word-spacing:0px;line-height:125%;fill:#000000" xml:space="preserve" y="825.36798" x="687.02405"><tspan x="687.02405" y="825.36798">OS</tspan></text>
+<rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#7affb0" height="215.07" width="167" y="710.92" x="793.78"/>
+<text style="letter-spacing:0px;font-size:20px;word-spacing:0px;line-height:125%;fill:#000000" xml:space="preserve" y="825.89728" x="814.02979"><tspan x="814.02979" y="825.89728">Machine Code</tspan></text>
+<text style="font-size:40px;letter-spacing:0px;line-height:125%;word-spacing:0px;fill:#000000" xml:space="preserve" y="29.082001" x="181.66443"><tspan x="181.66443" style="text-anchor:middle;text-align:center" y="29.082001">Interpreter</tspan><tspan x="181.66443" style="font-size:30px;text-anchor:middle;text-align:center" y="68.741501">(Java, VB)</tspan></text>
+<text style="font-size:40px;letter-spacing:0px;line-height:125%;word-spacing:0px;fill:#000000" xml:space="preserve" y="30.390594" x="787.87927"><tspan x="787.87927" style="text-anchor:middle;text-align:center" y="30.390594">Compiler</tspan><tspan x="787.87927" style="font-size:30px;text-anchor:middle;text-align:center" y="70.050095">(C, C++)</tspan></text>
+<path style="fill:url(#e);fill-rule:evenodd" d="m740.54 355.05c24.476 0 25.408-38.775 25.408-38.775h55.07s.97227 38.05 24.926 38.846z"/>
+<path style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#030302" d="m655.26 90.529h276.48c5.3045 0 9.5748 5.3737 9.5748 12.048v201.82c0 12-.46197 12.048-9.5748 12.048h-276.48c-9.9592 0-9.5748-.0489-9.5748-12.048v-201.82c0-6.675 4.2703-12.048 9.5748-12.048z"/>
+<path style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:url(#g)" d="m645.29 276.47v28.252c0 12.14-.38518 12.188 9.601 12.188h277.23c9.0463 0 9.588-.0874 9.5979-11.868v-28.25c-38.978 0-258.31-.32215-296.43-.32215z"/>
+<rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#646464" rx="0" ry="0" height="159.94" width="266.94" y="103.78" x="660.02"/>
+<rect style="opacity:0.942;color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:url(#c)" rx="1.9593" ry="1.9593" height="2.7612" width="105.53" y="354.84" x="740.62"/>
+<rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#e6e6e6" height="5.5639" width="265.68" y="103.44" x="660.47"/>
+<circle r="1.6464" style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#f61d1d" cx="666.06" cy="105.93"/>
+<circle cx="672.64" cy="105.93" r="1.6464" style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#fff600"/>
+<circle r="1.6464" style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#2aff00" cx="679.23" cy="105.93"/>
+<rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#b2faff" height="5.5138" width="109.71" y="120.64" x="669.51"/>
+<rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#b0ffa9" height="5.5138" width="67.279" y="140.64" x="669.51"/>
+<rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#fff171" height="5.5138" width="109.71" y="160.64" x="669.51"/>
+<rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#fa9aa1" height="5.5138" width="131.53" y="180.64" x="669.51"/>
+<rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#dffb88" height="5.5138" width="40.61" y="200.64" x="669.51"/>
+<rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#c4c9ff" height="5.5138" width="96.372" y="220.64" x="669.51"/>
+<rect style="color-rendering:auto;color:#000000;isolation:auto;mix-blend-mode:normal;fill-rule:evenodd;shape-rendering:auto;solid-color:#000000;image-rendering:auto;fill:#ffe093" height="5.5138" width="119.4" y="240.64" x="669.51"/>
+<text style="letter-spacing:0px;font-size:20px;word-spacing:0px;line-height:125%;fill:#000000" y="684.03894" x="773.87604" xml:space="preserve"><tspan y="684.03894" x="773.87604">Run</tspan></text>
+</svg>

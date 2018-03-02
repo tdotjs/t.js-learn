@@ -1,39 +1,36 @@
-## **Đây là kênh chia sẻ kiến thức phi lợi nhuận dành cho lập trình viên**
-
+# **Kênh chia sẻ kiến thức phi lợi nhuận**
+```
 Các bạn có thể liên hệ nếu muốn trợ giúp trực tiếp hoặc đóng góp cho dự án.
 Email: tricky@t4v.net
 FB: tricky.gvr.vn
-Twitter: trickym4st3r
+Twitter: tr1ckym4st3r
 Github: trickymast3r
-
----
-
-### DANH SÁCH CÁC BÀI VIẾT
-
-* [Một số kiến thức vs định nghĩa về lập trình không thể bỏ qua](#m-t-s-ki-n-th-c-vs-nh-ngh-a-v-l-p-tr-nh-kh-ng-th-b-qua)
-  * [Kiến trúc máy tính ?](#kien-truc-may-tinh)
-  * [Mô hình mạng máy tính](#mo-hinh-mang-may-tinh)
-    * phần mềm giao tiếp với nhau như nào ?
-    * phần mềm giao tiếp với máy chủ như nào ?
-    * protocol là gì ?
-    * http hoạt động thế nào ?
-    * websocket là gì ?
-    * cookie/session hoạt động như nào ?
-  * Ngôn ngữ lập trình ?
-    * Ngôn ngữ máy là gì ?
-    * Ngôn ngữ lập trình bậc thấp Assembly ?
-* Lập trình WEB và phần mềm
-  * NodeJS
-    * Cơ sở
-    * React
-    * Angular
-  * GoLang
-  * PHP
-* Quản lý cài đặt máy chủ
-  * Ubuntu
-  * CentOs
-  * Nginx
-  * Apache
+```
+## **Mục Lục**
+*  [Kiến thức cơ bản](#m-t-s-ki-n-th-c-vs-nh-ngh-a-v-l-p-tr-nh-kh-ng-th-b-qua)
+    * [Kiến trúc máy tính](#kien-truc-may-tinh)
+    * [Mô hình mạng máy tính](#mo-hinh-mang-may-tinh)
+        * [Phần mềm giao tiếp với nhau như nào](#)
+        * [Phần mềm giao tiếp với máy chủ như nào](#)
+        * [Protocol là gì](#)
+        * [Http hoạt động thế nào](#)
+        * [Websocket là gì](#)
+        * [Cookie/session hoạt động như nào](#)
+  * [Ngôn ngữ lập trình](#)
+      * [Ngôn ngữ máy là gì ?](#)
+      * [Ngôn ngữ lập trình bậc thấp Assembly ?](#)
+* [Lập trình WEB và phần mềm](#)
+    * [NodeJS](#)
+        * [Cơ sở](#)
+        * [React](#)
+        * [Angular](#)
+    * [GoLang](#)
+    * [PHP](#)
+* [Quản lý cài đặt máy chủ](#)
+    * [Ubuntu](#)
+    * [CentOs](#)
+    * [Nginx](#)
+    * [Apache](#)
 
 # Một số kiến thức vs định nghĩa về lập trình không thể bỏ qua
 

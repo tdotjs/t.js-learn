@@ -7,6 +7,7 @@ const highlight = require('highlight.js');
 const http = require('http');
 
 converter = new showdown.Converter({
+  noHeaderId: true,
   headerLevelStart: 2,
   simplifiedAutoLink: true,
   excludeTrailingPunctuationFromURLs: true,
@@ -14,7 +15,6 @@ converter = new showdown.Converter({
   ghCodeBlocks: true,
   ghMentions: true,
   ghMentionsLink: true,
-  disableForced4SpacesIndentedSublists: true,
   encodeEmails: true,
 });
 
